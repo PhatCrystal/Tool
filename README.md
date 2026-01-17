@@ -29,3 +29,8 @@ pip install requests cloudscraper beautifulsoup4 rich prettytable colorama pysty
 ```bash
 python phatmain.py
 ```
+---
+## 📞 Hỗ trợ
+
+Nếu gặp lỗi hoặc cần hỗ trợ, vui lòng liên hệ Admin tại Discord:
+👉 https://discord.gg/CHfmPs47ZR
