@@ -1,11 +1,9 @@
-# 🚀 GoLike Instagram Tool
+# PhatCrystal Tool
 
 ---
 
 ## ✨ Giới thiệu
 **Tool Gộp – PhatCrystal**  
-Công cụ hỗ trợ tự động hoá các tác vụ Instagram trên nền tảng GoLike, chạy bằng Python.
-
 ---
 
 ## 📦 Thông tin phiên bản
@@ -28,4 +26,6 @@ Cài đặt các thư viện cần thiết bằng lệnh sau:
 pip install requests cloudscraper beautifulsoup4 rich prettytable colorama pystyle
 ```
 ## Hướng dẫn chạy
-```python phatmain.py```
+```bash
+python phatmain.py
+```
