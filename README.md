@@ -13,7 +13,7 @@
 ---
 
 ## 💻 Yêu cầu hệ thống
-- 🐍 **Python:** 3.8 trở lên  
+- 🐍 **Python:** 3.12
 - 🖥️ **Hệ điều hành:** Windows / Linux / macOS  
 - 🌐 **Internet:** Kết nối ổn định  
 
